@@ -12,4 +12,6 @@ void main() {
   String? a = stdin.readLineSync();
   print("Hello, $a! \nWelcome to GeeksforGeeks!!");
   print("Hello, $a! \nWelcome to GeeksforGeeks!!");
+  print("Hello, $a! \nWelcome to GeeksforGeeks!!");
+  print("Hello, $a! \nWelcome to GeeksforGeeks!!");
 }
