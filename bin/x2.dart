@@ -11,4 +11,5 @@ void main() {
   stdout.writeln("Enter your name? ");
   String? a = stdin.readLineSync();
   print("Hello, $a! \nWelcome to GeeksforGeeks!!");
+  print("Hello, $a! \nWelcome to GeeksforGeeks!!");
 }
